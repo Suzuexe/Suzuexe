@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Pythom, java, and HTML
 - 💞️ I’m looking to collaborate on Tech Fields Org
 - 📫 How to reach me theofficialsujal@gmail.com
-- 😄 Pronouns: ... He/His
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like to code but but i'm yet not that good in coding
 
 <!---
